@@ -1,0 +1,3 @@
+/media/wangc/Data/AAA_Code/Vision/mission3/build/CMakeFiles/mission3.dir
+/media/wangc/Data/AAA_Code/Vision/mission3/build/CMakeFiles/edit_cache.dir
+/media/wangc/Data/AAA_Code/Vision/mission3/build/CMakeFiles/rebuild_cache.dir
